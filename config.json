@@ -1,0 +1,15 @@
+{
+  "trust_name": "Tahira Arshed Trust",
+  "entity_name": "Tahira Arshed Trust",
+  "trust_type": "irrevocable",
+  "state": "CA",
+  "grantor": "Tahira Arshed",
+  "trustee": "Tahira Arshed",
+  "cotrustee": "",
+  "successor_trustee": "Bilal Abdullah Khan",
+  "has_tax_id": true,
+  "ein": "XXX",
+  "will_hold_real_estate": true,
+  "will_hold_investments": false,
+  "expects_annual_filing": true
+}
